@@ -1,0 +1,17 @@
+{
+  "name": "vue-tute",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fileSys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hl7parser": "^1.0.1",
+    "node-schedule": "^1.3.2",
+    "nodemon": "^2.0.1"
+  }
+}
